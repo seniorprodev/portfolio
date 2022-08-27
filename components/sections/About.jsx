@@ -47,7 +47,7 @@ const Headshot = () => (
   <GridItem>
     <Image
       m="auto"
-      src="/me.jpg"
+      src="/me.gif"
       alt="Goran Vujic"
       zIndex={1}
       className="image"
