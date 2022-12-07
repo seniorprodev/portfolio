@@ -20,7 +20,7 @@ const Bio = ({ secondary }) => (
         Hi, I&apos;m Goran! I studied computer science at the University of
         PSB Academy, and I&apos;m currently working at{" "}
         <Link href="https://www.itwonders-web.com" isExternal>
-        IT WONDERS WEB PTE.LTD, Singapore
+        IT WONDERS WEB PTE.LTD, Singapore Company
         </Link>{" "}
         as a <strong style={{ color: secondary }}>Full Stack Developer</strong>{" "}
         on the Platform Workflows team. Prior to that, I was at{" "}
