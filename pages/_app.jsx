@@ -13,7 +13,7 @@ import theme from "../theme";
 const SiteHead = ({ title }) => (
   <Head>
     <title>{title}</title>
-    <meta name="title" content="Goran Vujic - Front End Developer" />
+    <meta name="title" content="Goran Vujic - Full Stack Developer" />
     <meta name="description" content="Goran Vujic - Portfolio" />
     <link rel="icon" href="/favicon.ico" />
     <link rel="apple-touch-icon" href="/logo192.png" />
@@ -21,7 +21,7 @@ const SiteHead = ({ title }) => (
     <meta name="theme-color" content="#252934" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://www.goranvujic.com/" />
-    <meta property="og:title" content="Goran Vujic - Front End Developer" />
+    <meta property="og:title" content="Goran Vujic - Full Stack Developer" />
     <meta
       property="og:description"
       content="Goran Vujic's personal portfolio"
@@ -31,7 +31,7 @@ const SiteHead = ({ title }) => (
     <meta property="twitter:url" content="http://www.goranvujic.com/" />
     <meta
       property="twitter:title"
-      content="Goran Vujic - Front End Developer"
+      content="Goran Vujic - Full Stack Developer"
     />
     <meta
       property="twitter:description"
@@ -66,7 +66,7 @@ function App({ Component, pageProps }) {
   const { pathname } = useRouter();
 
   const pathToTitle = {
-    "/": "Goran Vujic - Front End Developer",
+    "/": "Goran Vujic - Full Stack Developer",
   };
 
   return (

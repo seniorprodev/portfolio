@@ -20,13 +20,13 @@ export default function Landing() {
   const header = (
     <div className={styles.center}>
       <h1 className={styles.tagline} style={{ color: primary }}>
-        Hi, I&apos;m Goran Vujic, from Serbia
+        Hi, I&apos;m Goran Vujic, from Estonia
       </h1>
       <h1 className={styles.tagline} style={{ color: primary }}>
         {" "}
         a{" "}
         <strong style={{ color: secondary }}>
-          Senior Front-End Developer.
+          Senior Full Stack Developer.
         </strong>
       </h1>
     </div>

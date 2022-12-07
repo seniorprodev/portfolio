@@ -52,7 +52,7 @@ const Headshot = () => (
       zIndex={1}
       className="image"
       onClick={() => {
-        window.open("https://www.linkedin.com/in/goran-vujic-496933246/");
+        window.open("https://www.linkedin.com/in/goran-vuja-855759246/");
       }}
     />
   </GridItem>
