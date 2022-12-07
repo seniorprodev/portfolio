@@ -18,20 +18,20 @@ const Bio = ({ secondary }) => (
     <VStack m="auto" w="75%" spacing="12px" pt="5%">
       <Text>
         Hi, I&apos;m Goran! I studied computer science at the University of
-        Singapore Institute of Technology, and I&apos;m currently working at{" "}
-        <Link href="https://www.simon.com/" isExternal>
-          Simon Propery Group
+        PSB Academy, and I&apos;m currently working at{" "}
+        <Link href="https://www.itwonders-web.com" isExternal>
+        IT WONDERS WEB PTE.LTD, Singapore
         </Link>{" "}
-        as a <strong style={{ color: secondary }}>Front End Developer</strong>{" "}
+        as a <strong style={{ color: secondary }}>Full Stack Developer</strong>{" "}
         on the Platform Workflows team. Prior to that, I was at{" "}
-        <Link href="https://www.delighteck.com/" isExternal>
-          DELIGHTECK
+        <Link href="http://www.afgifg.com" isExternal>
+        American Financial Group
         </Link>{" "}
         &{"  "}
-        <Link href="https://www.itengine.rs/" isExternal>
-          IT ENGINE
+        <Link href="https://titansoft.com" isExternal>
+        Titansoft
         </Link>{" "}
-        as a <strong style={{ color: secondary }}>Front End Developer</strong>.
+        as a <strong style={{ color: secondary }}>Full Stack Developer</strong>.
       </Text>
       <Text>
         I enjoy creating scalable & elegant web/mobile applications that have a
