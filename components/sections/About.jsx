@@ -17,19 +17,18 @@ const Bio = ({ secondary }) => (
   <GridItem>
     <VStack m="auto" w="75%" spacing="12px" pt="5%">
       <Text>
-        Hi, I&apos;m Goran! I studied computer science at the University of
-        PSB Academy, and I&apos;m currently working at{" "}
-        <Link href="https://www.itwonders-web.com" isExternal>
-        IT WONDERS WEB PTE.LTD, Singapore Company
+        Hi, I&apos;m Goran! I have worked at{" "}
+        <Link href="https://www.delighteck.com/" isExternal>
+          DELIGHTECK
         </Link>{" "}
         as a <strong style={{ color: secondary }}>Full Stack Developer</strong>{" "}
         on the Platform Workflows team. Prior to that, I was at{" "}
-        <Link href="http://www.afgifg.com" isExternal>
-        American Financial Group
+        <Link href="https://www.itwonders-web.com" isExternal>
+          IT WONDERS
         </Link>{" "}
         &{"  "}
-        <Link href="https://titansoft.com" isExternal>
-        Titansoft
+        <Link href="http://www.afgifg.com" isExternal>
+          American Financial Group
         </Link>{" "}
         as a <strong style={{ color: secondary }}>Full Stack Developer</strong>.
       </Text>
@@ -52,7 +51,7 @@ const Headshot = () => (
       zIndex={1}
       className="image"
       onClick={() => {
-        window.open("https://www.linkedin.com/in/goran-vuja-855759246/");
+        window.open("https://www.linkedin.com/in/goran-vujic-496933246/");
       }}
     />
   </GridItem>
